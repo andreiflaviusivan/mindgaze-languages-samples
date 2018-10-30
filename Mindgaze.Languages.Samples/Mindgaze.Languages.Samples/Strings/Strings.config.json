@@ -1,0 +1,16 @@
+﻿{
+  "languages": [
+    {
+      "name": "en_US",
+      "extra": {
+        "Description": "English US"
+      }
+    },
+    {
+      "name": "ro_RO",
+      "extra": {
+        "Description": "Română"
+      }
+    }
+  ]
+}

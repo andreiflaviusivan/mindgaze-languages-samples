@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="Mindgaze.Languages.Samples.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mindgaze.Languages.Samples"
+    xmlns:mindgaze="using:Mindgaze.Languages"
+    >
+    <Application.Resources>
+        <ResourceDictionary>
+            <mindgaze:MultiLanguageWorkshop x:Name="MultiLanguageWorkshop"></mindgaze:MultiLanguageWorkshop>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
