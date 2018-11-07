@@ -1,0 +1,23 @@
+﻿{
+  "ApplicationTitle": {
+    "en_US": "Mindgaze.Languages Samples",
+    "ro_RO": "Mindgaze.Languages Exemple"
+  },
+
+  "ApplicationAbout": {
+    "en_US": "About the app",
+    "ro_RO": "Despre aplicație"
+  },
+  "Home": {
+    "en_US": "Home",
+    "ro_RO": "Acasă"
+  },
+  "About": {
+    "en_US": "About",
+    "ro_RO": "Despre"
+  },
+  "Contact": {
+    "en_US": "Contact",
+    "ro_RO": "Contact"
+  }
+}
