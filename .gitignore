@@ -251,5 +251,4 @@ npmlibs/
 bowlibs/
 /Mindgaze.SSO/test/Mindgaze.SSO.Tests/pgsql/
 /Mindgaze.SSO/test/Mindgaze.SSO.Tests/*.zip
-dist/
 version.txt
