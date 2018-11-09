@@ -5,3 +5,4 @@ This repo is aimed to show you how you can use the [Mindgaze.Languages](https://
 You can find information on my blog post(s):
 
 - [Writing a multilingual UWP app with Prism and WTS](https://blog.mindgaze.tech/2018/10/writing-a-multilingual-uwp-app-with-prism-and-wts/)
+- [Creating a multilingual ASP.NET Core app with Razor](https://blog.mindgaze.tech/2018/11/creating-a-multilingual-asp-net-core-app-with-razor/)
