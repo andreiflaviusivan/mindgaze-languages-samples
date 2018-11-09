@@ -50,6 +50,8 @@ namespace Mindgaze.Languages.Web
             app.UseStaticFiles();
             app.UseCookiePolicy();
 
+            app.UseRequestMultiLanguageLocalization();
+
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

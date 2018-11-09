@@ -1,15 +1,15 @@
 ﻿{
   "ApplicationTitle": {
-    "en_US": "Mindgaze.Languages Samples",
-    "ro_RO": "Mindgaze.Languages Exemple"
+    "en-US": "Mindgaze.Languages Samples",
+    "ro-RO": "Mindgaze.Languages Exemple"
   },
 
   "ApplicationAbout": {
-    "en_US": "About the app",
-    "ro_RO": "Despre aplicație"
+    "en-US": "About the app",
+    "ro-RO": "Despre aplicație"
   },
   "AdministrationPageAccessDenied": {
-    "en_US": "Click to grant user access!",
-    "ro_RO": "Click aici pentru acces!"
+    "en-US": "Click to grant user access!",
+    "ro-RO": "Click aici pentru acces!"
   }
 }

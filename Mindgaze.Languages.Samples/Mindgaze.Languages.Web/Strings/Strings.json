@@ -1,23 +1,23 @@
 ﻿{
   "ApplicationTitle": {
-    "en_US": "Mindgaze.Languages Samples",
-    "ro_RO": "Mindgaze.Languages Exemple"
+    "en-US": "Multilanguage Sample",
+    "ro-RO": "Exemplu Multilanguage"
   },
 
   "ApplicationAbout": {
-    "en_US": "About the app",
-    "ro_RO": "Despre aplicație"
+    "en-US": "About the app",
+    "ro-RO": "Despre aplicație"
   },
   "Home": {
-    "en_US": "Home",
-    "ro_RO": "Acasă"
+    "en-US": "Home",
+    "ro-RO": "Acasă"
   },
   "About": {
-    "en_US": "About",
-    "ro_RO": "Despre"
+    "en-US": "About",
+    "ro-RO": "Despre"
   },
   "Contact": {
-    "en_US": "Contact",
-    "ro_RO": "Contact"
+    "en-US": "Contact",
+    "ro-RO": "Contact"
   }
 }

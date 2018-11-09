@@ -1,13 +1,13 @@
 ﻿{
   "languages": [
     {
-      "name": "en_US",
+      "name": "en-US",
       "extra": {
         "Description": "English US"
       }
     },
     {
-      "name": "ro_RO",
+      "name": "ro-RO",
       "extra": {
         "Description": "Română"
       }
