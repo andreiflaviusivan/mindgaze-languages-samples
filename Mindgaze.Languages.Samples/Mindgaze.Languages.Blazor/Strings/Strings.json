@@ -1,0 +1,22 @@
+﻿{
+  "ApplicationTitle": {
+    "en-US": "Multilanguage Sample",
+    "ro-RO": "Exemplu Multilanguage"
+  },
+  "ApplicationAbout": {
+    "en-US": "About the app",
+    "ro-RO": "Despre aplicație"
+  },
+  "Home": {
+    "en-US": "Home",
+    "ro-RO": "Acasă"
+  },
+  "About": {
+    "en-US": "About",
+    "ro-RO": "Despre"
+  },
+  "Contact": {
+    "en-US": "Contact",
+    "ro-RO": "Contact"
+  }
+}

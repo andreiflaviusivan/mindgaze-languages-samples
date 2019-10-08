@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mindgaze.Languages" Version="1.2.0" />
+    <PackageReference Include="Mindgaze.Languages.AspNetCore" Version="1.2.0" />
+  </ItemGroup>
+
+</Project>
